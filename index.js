@@ -1,5 +1,5 @@
 class ocrRecieptHelper {
-  constructor(resJson, placeName, sumKeywords=['총금액', '총액', '합계'], dateKeywords=['발행일', '날짜', '거래일자'], skipWords=['청구서', '세부내역', '수량', '금액']) {
+  constructor(resJson, placeName='', sumKeywords=['총금액', '총액', '합계'], dateKeywords=['발행일', '날짜', '거래일자'], skipWords=['청구서', '세부내역', '수량', '금액']) {
     this.sumKeywords = sumKeywords
     this.dateKeywords = dateKeywords
     this.skipWords = skipWords
