@@ -1,6 +1,6 @@
 {
   "name":"@ming822/ocr-reciept-helper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Extract all the pairs of an item and a price of the reciept object from google ocr api response",
   "keywords": ["ocr", "google ocr api", "reciept", "price"],
   "license": "MIT",

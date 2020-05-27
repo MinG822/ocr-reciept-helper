@@ -1,5 +1,5 @@
 ![npm](https://img.shields.io/npm/v/@ming822/ocr-reciept-helper)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![npm bundle size](https://img.shields.io/bundlephobia/minzip/@ming822/ocr-reciept-helper)
 
 
