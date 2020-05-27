@@ -1,0 +1,9 @@
+{
+  "name":"ming822/ocrRecieptHelper",
+  "version": "1.0.0",
+  "description": "Extract all the pairs of an item and a price from google ocr api response",
+  "license": "MIT",
+  "repository": "MinG822/ocrRecieptHelper",
+  "main": "index.js",
+  "keywords": ["ocr", "google ocr api", "reciept", "price"]
+}
